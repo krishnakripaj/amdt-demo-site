@@ -1,5 +1,15 @@
+/* Navbar styles */
 
-/* Bootstrap overriden styles */
-h1 {
-    color: red;
+.human-navbar-right {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.human-footer-box {
+  color: white;
+  padding: 10px;
+}
+
+.human-main-box {
+  margin: 235px
 }
